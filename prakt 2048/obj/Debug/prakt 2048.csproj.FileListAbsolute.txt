@@ -1,0 +1,11 @@
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\bin\Debug\prakt 2048.exe.config
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\bin\Debug\prakt 2048.exe
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\bin\Debug\prakt 2048.pdb
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\obj\Debug\prakt 2048.csproj.AssemblyReference.cache
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\obj\Debug\prakt 2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\obj\Debug\prakt_2048.Form1.resources
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\obj\Debug\prakt_2048.Properties.Resources.resources
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\obj\Debug\prakt 2048.csproj.GenerateResource.cache
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\obj\Debug\prakt 2048.csproj.CoreCompileInputs.cache
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\obj\Debug\prakt 2048.exe
+C:\Users\argun\Desktop\Учёба\TRPO\prakt 2048\prakt 2048\obj\Debug\prakt 2048.pdb
